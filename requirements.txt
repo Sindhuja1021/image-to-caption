@@ -1,0 +1,6 @@
+streamlit
+geocoder
+transformers
+torch
+Pillow
+Sentencepiece
